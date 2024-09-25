@@ -40,7 +40,7 @@ defaults:
   - scope: 
       path: ""
     values: 
-        author: "ankur aggarwal"
+        author: "Ankur Aggarwal"
 
 
 # Exclude from processing.
